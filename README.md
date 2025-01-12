@@ -32,7 +32,7 @@ Currently, the plugin does not support configuration files. If you'd like custom
 - Java version: **Java 8** or higher
 
 ## Example
-![The Floor Is Lava Example](the-floor-is-lava-example.gif)
+![The Floor Is Lava Example](the-floor-is-lava-exemple.png)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests! Contributions are welcome to improve the plugin.
