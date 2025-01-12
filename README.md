@@ -10,7 +10,7 @@ A thrilling Minecraft plugin that gradually fills the world with lava, starting 
 - Compatible with **Survival** and **Adventure** game modes.
 
 ## Installation
-1. Download the plugin JAR file from the [Releases](https://github.com/yourusername/the-floor-is-lava/releases/tag/plugin) section.
+1. Download the plugin JAR file from the [Releases](https://github.com/Patpat200/the-floor-is-lava/releases) section.
 2. Place the JAR file in the `plugins` folder of your Minecraft server.
 3. Restart the server.
 
