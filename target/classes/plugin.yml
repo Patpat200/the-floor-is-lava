@@ -1,0 +1,14 @@
+name: the-floor-is-lava
+version: '1.0-SNAPSHOT'
+main: me.minecraft.theFloorIsLava.TheFloorIsLava
+api-version: '1.21'
+description: A plugin that makes lava rise gradually from the bottom of the world
+commands:
+  lavaspeed:
+    description: Control the speed of lava rise
+    usage: /lavaspeed <seconds> [start|stop]
+    permission: thefloorislava.command.lavaspeed
+permissions:
+  thefloorislava.command.lavaspeed:
+    description: Allows to use the lavaspeed command
+    default: op
