@@ -28,7 +28,7 @@ A thrilling Minecraft plugin that gradually fills the world with lava, starting 
 Currently, the plugin does not support configuration files. If you'd like custom behavior, feel free to modify the source code or open a feature request.
 
 ## Requirements
-- Minecraft server version: **1.21.4**
+- Minecraft server version: **1.21.x**
 - Java version: **Java 8** or higher
 
 ## Example
